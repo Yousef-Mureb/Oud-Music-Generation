@@ -1,8 +1,7 @@
 # Oud-Music-Generation
 This project implements a Generative Adversarial Network (GAN) to generate Oud music.
 
-The data used to train our model was gathered from a series of youtube videos that contain Oud music. the videos are sampled over 3 second periods to create multiple samples to be fed into our network.
-
+The data used to train our model was gathered from a series of YouTube videos that contain Oud music. The videos are sampled over 3-second periods to create multiple samples to be fed into our network.
 
 some main points gathered from the project:
 
